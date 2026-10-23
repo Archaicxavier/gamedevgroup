@@ -9,5 +9,5 @@
 ## Challenge
 #### Monsters attack with various abilities that you must play around by using your own abilities. Some monsters may have higher defense requiring you to use abilties while others counter abilities and force you to use physical damage.
 ## Feedback
-
+#### Sound will play when damage is dealt or taken, and the health bar or text may change color if your character is on low health. There will be sounds that differ for using abilities or basic attacks for both you and the enemy.
 ## Scope
