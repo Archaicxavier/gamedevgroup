@@ -1,7 +1,5 @@
 # GameDevGroup1
 
-## 
-
 ## Player
 
 ## Goal
