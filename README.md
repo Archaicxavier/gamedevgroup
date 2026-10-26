@@ -1,5 +1,5 @@
 # GameDevGroup1
-# No Name Yet
+# Outlast
 ## Player
 
 ## Goal 
