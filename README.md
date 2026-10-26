@@ -3,9 +3,9 @@
 ## Player
 
 ## Goal 
-### Fight Monsters and survive until the end of the round/level/wave to win
+### Fight Monsters and defeat 1 or more bosses to beat the game
 ## Core Action
-### Fighting monsters, Surviving, Clearing rounds/levels/waves
+### Fighting monsters, Surviving, exploring, leveling up, and finding stronger monsters and items
 ## Challenge
 #### Monsters attack with various abilities that you must play around by using your own abilities. Some monsters may have higher defense requiring you to use abilties while others counter abilities and force you to use physical damage.
 ## Feedback
