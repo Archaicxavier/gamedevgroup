@@ -12,6 +12,8 @@
 #### Sound will play when damage is dealt or taken, and the health bar or text may change color if your character is on low health. There will be sounds that differ for using abilities or basic attacks for both you and the enemy. The Player changing animations based off of what is being done, Using abilities, Or just fighting with your fists.
 ## Scope
 
+
+
 ![Dragon Quest](https://github.com/Archaicxavier/gamedevgroup/blob/main/images/Dragon-Quest.jpeg)
 
 ![Pokemon](https://github.com/Archaicxavier/gamedevgroup/blob/main/images/Pokemon.jpeg)
