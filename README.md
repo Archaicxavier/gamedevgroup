@@ -13,4 +13,6 @@
 ## Scope
 
 ![Dragon Quest](http://github.com/Archaicxavier/gamedevgroup/blob/main/images/Dragon-Quest.jpeg)
+
 ![Pokemon](https://github.com/Archaicxavier/gamedevgroup/blob/main/images/Pokemon.jpeg)
+
