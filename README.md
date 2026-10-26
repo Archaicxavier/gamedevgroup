@@ -5,7 +5,7 @@
 ## Goal 
 ### Fight Monsters and defeat 1 or more bosses to beat the game
 ## Core Action
-### Fighting monsters, Surviving, exploring, leveling up, and finding stronger monsters and items
+### Fighting monsters, Surviving,  leveling up, and fighting stronger monsters with better new abilities and strategies.
 ## Challenge
 #### Monsters attack with various abilities that you must play around by using your own abilities. Some monsters may have higher defense requiring you to use abilties while others counter abilities and force you to use physical damage.
 ## Feedback
